@@ -1,6 +1,8 @@
 /* ESP32 Boilerplate
 
-Based heavily on the ESP IDF Hellow World Example
+Based heavily on the ESP IDF Hello World Example
+
+Refactored for code and output clarity.
 
 */
 #include <stdio.h>
